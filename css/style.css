@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding-top: 50px;
+  }
+  #clock {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  input[type="number"] {
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  button:hover {
+    background-color: #45a049;
+  }
